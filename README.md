@@ -149,4 +149,6 @@ Feedstock Maintainers
 =====================
 
 * [@glemaitre](https://github.com/glemaitre/)
+* [@jeromedockes](https://github.com/jeromedockes/)
+* [@thomass-dev](https://github.com/thomass-dev/)
 
