@@ -31,6 +31,7 @@ requirements:
     - click
     - rich >=14.2
     - rich-click >=1.9
+    - skore
     - textual
 
 tests:
