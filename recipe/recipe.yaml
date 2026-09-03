@@ -29,6 +29,7 @@ requirements:
   run:
     - python >=${{ python_min }}
     - click
+    - httpx
     - rich >=14.2
     - rich-click >=1.9
     - skore
